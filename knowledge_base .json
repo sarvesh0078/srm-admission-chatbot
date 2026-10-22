@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "campus": "SRM Institute of Science and Technology, Ramapuram Campus",
+    "address": "SRM Institute of Science and Technology, Ramapuram Campus, Bharathi Salai, Ramapuram, Chennai, Tamil Nadu 600089, India",
+    "official_website": "https://www.srmist.edu.in/",
+    "data_status": "UNVERIFIED - every value below must be confirmed against the official SRMIST website for the relevant admission year before public use.",
+    "official_brochure": "https://webstor.srmist.edu.in/web_assets/downloads/2026/srm-admission-brochure-2026-2027.pdf"
+  },
+  "courses": {
+    "btech": {
+      "name": "B.Tech (Engineering)",
+      "level": "UG",
+      "duration": "Typically 4 years",
+      "aliases": [
+        "btech",
+        "b tech",
+        "engineering",
+        "engineer",
+        "cse",
+        "computer science",
+        "ece",
+        "eee",
+        "mechanical",
+        "civil"
+      ],
+      "branches": {
+        "cse": "Computer Science and Engineering",
+        "computer science": "Computer Science and Engineering",
+        "ece": "Electronics and Communication Engineering",
+        "eee": "Electrical and Electronics Engineering",
+        "mechanical": "Mechanical Engineering",
+        "civil": "Civil Engineering"
+      },
+      "eligibility": "Pass in 10+2 (or equivalent) with Physics and Mathematics, plus Chemistry / Biology / Computer Science / a technical vocational subject, depending on the branch.",
+      "minimum_marks": "Not confirmed. Check the current admission notification for the minimum aggregate.",
+      "entrance": "Admission is through the SRM Joint Engineering Entrance Examination (SRMJEEE) per the 2026-27 SRM brochure. Confirm accepted exams and dates for your year.",
+      "fee": null,
+      "specialisations": "Reported (third-party listings and older SRM brochures; confirm the current Ramapuram list): Civil Engineering, Mechanical Engineering, Biomedical Engineering, Biotechnology, ECE, EEE, Information Technology, Artificial Intelligence, and Computer Science & Engineering (CSE) with specialisations such as AI & ML, Big Data Analytics, Cloud Computing, Cyber Security, Internet of Things, Software Engineering and Gaming Technology."
+    },
+    "barch": {
+      "name": "B.Arch (Architecture)",
+      "level": "UG",
+      "duration": "Typically 5 years",
+      "aliases": [
+        "barch",
+        "b arch",
+        "architecture",
+        "architect"
+      ],
+      "eligibility": "Pass in 10+2 (or equivalent) with Mathematics and other subjects as specified by the Council of Architecture / university.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "Usually requires a valid architecture aptitude score such as NATA or JEE Main Paper 2. Confirm for the current year.",
+      "fee": null
+    },
+    "bdes": {
+      "name": "B.Des (Design)",
+      "level": "UG",
+      "duration": "Typically 4 years",
+      "aliases": [
+        "bdes",
+        "b des",
+        "design",
+        "designing"
+      ],
+      "eligibility": "Pass in 10+2 (or equivalent). Stream requirements may vary.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "A design aptitude test or accepted entrance score may be required. Confirm for the current year.",
+      "fee": null
+    },
+    "bba": {
+      "name": "BBA (Business Administration)",
+      "level": "UG",
+      "duration": "Typically 3 years",
+      "aliases": [
+        "bba",
+        "business administration"
+      ],
+      "eligibility": "Pass in 10+2 (or equivalent) from a recognised board.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "Merit-based and/or an aptitude test may apply. Confirm for the current year.",
+      "fee": null
+    },
+    "bca": {
+      "name": "BCA (Computer Applications)",
+      "level": "UG",
+      "duration": "Typically 3 years",
+      "aliases": [
+        "bca"
+      ],
+      "eligibility": "Pass in 10+2 (or equivalent); Mathematics / Computer Science at 10+2 may be preferred or required.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "Merit-based and/or an aptitude test may apply. Confirm for the current year.",
+      "fee": null
+    },
+    "bcom": {
+      "name": "B.Com (Commerce)",
+      "level": "UG",
+      "duration": "Typically 3 years",
+      "aliases": [
+        "bcom",
+        "b com",
+        "commerce"
+      ],
+      "eligibility": "Pass in 10+2 (or equivalent) from a recognised board.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "Merit-based and/or an aptitude test may apply. Confirm for the current year.",
+      "fee": null
+    },
+    "mba": {
+      "name": "MBA (Management)",
+      "level": "PG",
+      "duration": "Typically 2 years",
+      "aliases": [
+        "mba",
+        "management"
+      ],
+      "eligibility": "Bachelor's degree in any discipline from a recognised university with the minimum marks set by the university.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "The 2026-27 SRM brochure mentions the SRM Joint Entrance Examination for Management (SRMJEEM) for management programmes. Confirm for your year.",
+      "fee": null
+    },
+    "mtech": {
+      "name": "M.Tech (Engineering PG)",
+      "level": "PG",
+      "duration": "Typically 2 years",
+      "aliases": [
+        "mtech",
+        "m tech"
+      ],
+      "eligibility": "B.E. / B.Tech (or equivalent) in a relevant discipline with the minimum marks set by the university.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "The 2026-27 SRM brochure mentions SRMJEEE M.Tech for postgraduate engineering programmes. Confirm for your year.",
+      "fee": null
+    },
+    "mca": {
+      "name": "MCA (Computer Applications PG)",
+      "level": "PG",
+      "duration": "Typically 2 years",
+      "aliases": [
+        "mca"
+      ],
+      "eligibility": "Bachelor's degree (BCA / B.Sc / B.Com / B.E. etc.) with Mathematics at 10+2 or graduation level, as per university rules.",
+      "minimum_marks": "Not confirmed. Check the current admission notification.",
+      "entrance": "An entrance test or merit-based selection may apply. Confirm for the current year.",
+      "fee": null
+    }
+  },
+  "topics": [
+    {
+      "id": "welcome",
+      "verify": false,
+      "keywords": [
+        "hi",
+        "hello",
+        "hey",
+        "namaste",
+        "vanakkam",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "admission information",
+        "admission info",
+        "admission help"
+      ],
+      "questions": [
+        "hi",
+        "hello",
+        "I need admission information",
+        "can you help me with admissions"
+      ],
+      "answer": "Hello! 👋 I'm the **SRM Ramapuram Admission Assistant**, here to guide you through courses and admissions.\n\nYou can ask me about:\n- 📚 Courses and programmes\n- ✅ Eligibility criteria\n- 💰 Fees and scholarships\n- 📝 The admission process and documents\n- 🏅 Sports quota, placements, rules and contact details\n\n_I'm an unofficial guide. For final, up-to-date details always confirm on the official SRMIST website._"
+    },
+    {
+      "id": "courses",
+      "dynamic": "courses",
+      "keywords": [
+        "course",
+        "programme",
+        "program",
+        "degree",
+        "ug",
+        "pg",
+        "undergraduate",
+        "postgraduate",
+        "stream",
+        "branch",
+        "offered",
+        "what courses",
+        "list of courses"
+      ],
+      "questions": [
+        "What courses are available at Ramapuram?",
+        "Which programmes do you offer?",
+        "List of UG and PG courses",
+        "Tell me about the degrees offered"
+      ],
+      "answer": "Programmes commonly associated with the Ramapuram campus include:\n\n**Undergraduate:** B.Tech, B.Arch, B.Des, BBA, BCA, B.Com\n**Postgraduate:** MBA, M.Tech, MCA, M.Com, M.Arch\n\nThird-party listings report roughly 29 courses across engineering, architecture, science, computer applications and management, so other programmes may also exist. The exact list, specialisations and seat availability change every year, so please confirm them for the current admission cycle.\n\n👉 Ask about a specific course, e.g. _\"Tell me about B.Tech\"_ or _\"MBA eligibility\"_."
+    },
+    {
+      "id": "eligibility",
+      "dynamic": "eligibility",
+      "keywords": [
+        "eligibility",
+        "eligible",
+        "criteria",
+        "qualification",
+        "minimum marks",
+        "cutoff",
+        "cut off",
+        "percentage",
+        "who can apply",
+        "marks required",
+        "required marks"
+      ],
+      "questions": [
+        "What are the B.Tech eligibility criteria?",
+        "Am I eligible for admission?",
+        "What is the minimum percentage required?",
+        "Qualification needed for MBA"
+      ],
+      "answer": "Eligibility depends on the programme.\n\n- **UG programmes:** usually a pass in 10+2 (or equivalent) with subjects relevant to the course.\n- **PG programmes:** usually a relevant bachelor's degree with minimum marks set by the university.\n- Entrance exams or aptitude tests may apply to some programmes.\n\n👉 Tell me the course (e.g. _\"B.Tech eligibility\"_) and I'll share the details I have."
+    },
+    {
+      "id": "fees",
+      "dynamic": "fees",
+      "keywords": [
+        "fee",
+        "cost",
+        "tuition",
+        "price",
+        "much",
+        "expensive",
+        "charges",
+        "payment",
+        "fee structure",
+        "pay",
+        "afford",
+        "expenses"
+      ],
+      "questions": [
+        "What is the B.Tech fee?",
+        "How much does engineering cost?",
+        "Tell me the fees for CSE",
+        "Fee structure for MBA",
+        "How can I pay the fees?"
+      ],
+      "answer": "Fees differ by programme, specialisation, admission category and academic year, and they are revised periodically. Additional expenses (hostel, mess, transport, exam and other charges) are usually separate from tuition.\n\nI don't want to quote a figure that may be outdated. Please check the **official fee structure** for your course and year, and ask the admissions office before paying anything.\n\n👉 Ask about a course (e.g. _\"B.Tech fee\"_) or about hostel and scholarships."
+    },
+    {
+      "id": "hostel",
+      "keywords": [
+        "hostel",
+        "accommodation",
+        "mess",
+        "residential",
+        "stay",
+        "room",
+        "boarding",
+        "dormitory"
+      ],
+      "questions": [
+        "Is hostel available?",
+        "Tell me about hostel facilities",
+        "Accommodation for outstation students",
+        "What are the hostel charges?"
+      ],
+      "answer": "Hostel or accommodation facilities are commonly available for students, but availability, room types and charges vary by year and are usually allotted separately from admission.\n\nI don't have verified hostel fees or seat numbers. Please check the official website or contact the admissions office for current hostel details and the allotment process."
+    },
+    {
+      "id": "admission_process",
+      "keywords": [
+        "admission process",
+        "admission procedure",
+        "how to apply",
+        "apply",
+        "application",
+        "process",
+        "procedure",
+        "register",
+        "registration",
+        "steps",
+        "counselling",
+        "counseling",
+        "enroll",
+        "enrol",
+        "enrolment",
+        "how to join",
+        "join"
+      ],
+      "questions": [
+        "How do I apply for admission?",
+        "What is the admission process?",
+        "Steps to register",
+        "How does counselling work?"
+      ],
+      "answer": "A typical admission journey looks like this:\n\n1. **Registration:** create an account / register on the official admissions portal.\n2. **Application:** fill in the application form and choose your programme.\n3. **Entrance exam / merit evaluation:** appear for the required exam or submit qualifying scores, if applicable.\n4. **Counselling / slot allotment:** take part in counselling or programme allotment when announced.\n5. **Document verification:** present original documents for verification.\n6. **Fee payment and confirmation:** pay the prescribed fees through official channels to confirm your seat.\n\nThe exact steps, portal and timelines can change each year, so follow the current notification."
+    },
+    {
+      "id": "apply_now",
+      "keywords": [
+        "apply now",
+        "application link",
+        "application form",
+        "online application",
+        "apply online",
+        "submit application",
+        "admission link"
+      ],
+      "questions": [
+        "Apply now",
+        "Where can I fill the application form?",
+        "Give me the application link",
+        "I want to apply online"
+      ],
+      "answer": "Ready to apply? 🎓 Applications should only be submitted through the **official SRMIST admissions pages**, starting from https://www.srmist.edu.in/ (look for the Admissions section).\n\nKeep your marksheets, ID proof and a passport-size photo ready. Be careful of unofficial links or agents asking for payment."
+    },
+    {
+      "id": "entrance_exams",
+      "keywords": [
+        "entrance",
+        "entrance exam",
+        "entrance test",
+        "srmjeee",
+        "jee",
+        "nata",
+        "gate",
+        "cat",
+        "mat",
+        "cmat",
+        "aptitude"
+      ],
+      "questions": [
+        "Which entrance exam is required?",
+        "Is SRMJEEE compulsory?",
+        "Do I need JEE for B.Tech?",
+        "Entrance test details"
+      ],
+      "answer": "Entrance requirements depend on the programme. Examples that are commonly relevant: SRMJEEE or other accepted scores for B.Tech, NATA / JEE Main Paper 2 for B.Arch, and CAT / MAT / XAT / CMAT / GMAT or a university test for MBA, GATE for M.Tech.\n\nI can't confirm which exams are accepted, their syllabus or their dates for the current year. Please check the official admission notification."
+    },
+    {
+      "id": "dates",
+      "keywords": [
+        "deadline",
+        "last date",
+        "date",
+        "schedule",
+        "calendar",
+        "important dates",
+        "exam date",
+        "slot",
+        "timeline"
+      ],
+      "questions": [
+        "What is the last date to apply?",
+        "When is the entrance exam?",
+        "Important admission dates",
+        "Application deadline"
+      ],
+      "answer": "I don't have verified application deadlines or entrance exam dates, and they change every year, so I won't guess.\n\nPlease check the official admissions pages for the current schedule, and apply early."
+    },
+    {
+      "id": "documents",
+      "keywords": [
+        "document",
+        "certificate",
+        "mark sheet",
+        "marksheet",
+        "transfer certificate",
+        "bring",
+        "checklist",
+        "required documents",
+        "proof",
+        "photo",
+        "aadhaar",
+        "upload",
+        "verification"
+      ],
+      "questions": [
+        "What documents should I bring?",
+        "Documents required for admission",
+        "Checklist of certificates",
+        "Do I need a transfer certificate?"
+      ],
+      "answer": "Documents students commonly need (confirm the final list in your admission notification):\n\n- 10th and 12th mark sheets (and degree mark sheets for PG)\n- Transfer Certificate / migration certificate where applicable\n- Entrance exam score card, if applicable\n- Government ID proof (e.g. Aadhaar)\n- Passport-size photographs\n- Community / category certificate, if claiming any category benefit\n- Sports or other special-quota certificates, if applicable\n\nCarry **originals plus photocopies** for verification."
+    },
+    {
+      "id": "scholarships",
+      "keywords": [
+        "scholarship",
+        "financial aid",
+        "merit",
+        "waiver",
+        "concession",
+        "discount",
+        "fee waiver",
+        "freeship",
+        "education loan",
+        "loan",
+        "financial assistance"
+      ],
+      "questions": [
+        "Are scholarships available?",
+        "Is there a merit scholarship?",
+        "How can I get a fee waiver?",
+        "Education loan support"
+      ],
+      "answer": "Universities like SRMIST generally offer scholarship schemes such as **merit-based** awards (linked to board or entrance exam performance), **sports-related** benefits, and other special categories.\n\nEligibility rules, amounts and application procedures change by year, so I won't quote any scholarship amounts. Please check the official scholarship page or ask the admissions office. Education loans are usually arranged through banks."
+    },
+    {
+      "id": "sports_quota",
+      "keywords": [
+        "sport",
+        "quota",
+        "athlete",
+        "athletics",
+        "sports quota",
+        "sports scholarship",
+        "player",
+        "national level",
+        "state level"
+      ],
+      "questions": [
+        "Is there a sports quota?",
+        "Admission through sports",
+        "What certificates are needed for sports quota?",
+        "I am a state level player"
+      ],
+      "answer": "Sports-based admission or benefits are usually considered for students with notable achievements at district, state, national or international level.\n\nTypical supporting documents: **sports achievement certificates**, participation proofs, and any official rank / medal records, along with the regular admission documents.\n\nThe number of seats, eligible sports and concession details are not verified here, so please confirm them with the official admissions or sports office."
+    },
+    {
+      "id": "placements",
+      "keywords": [
+        "placement",
+        "career",
+        "internship",
+        "job",
+        "recruiter",
+        "company",
+        "package",
+        "salary",
+        "training",
+        "career development",
+        "campus placement",
+        "hire"
+      ],
+      "questions": [
+        "How are the placements?",
+        "Do you provide internships?",
+        "Tell me about career development",
+        "Which companies visit campus?"
+      ],
+      "answer": "Universities typically support students through **internships, placement training, skill-development programmes and career services**.\n\nI don't have verified placement statistics, recruiter lists or salary packages, so I won't quote any. Please check the official placement / career services pages for current, department-wise information."
+    },
+    {
+      "id": "rules",
+      "keywords": [
+        "rule",
+        "regulation",
+        "attendance",
+        "discipline",
+        "ragging",
+        "anti ragging",
+        "dress code",
+        "code of conduct",
+        "policy",
+        "conduct",
+        "campus rule",
+        "uniform"
+      ],
+      "questions": [
+        "What are the attendance rules?",
+        "Is there an anti-ragging policy?",
+        "Campus rules and discipline",
+        "Is there a dress code?"
+      ],
+      "answer": "General points (confirm details in the official student handbook / regulations):\n\n- **Attendance:** universities usually require a minimum attendance percentage to appear for exams.\n- **Anti-ragging:** ragging is strictly prohibited in India and punishable under UGC regulations; students and parents typically submit an anti-ragging undertaking at admission.\n- **Discipline:** students are expected to follow the code of conduct, including respectful behaviour, ID card use and campus safety rules.\n\nExact thresholds and penalties are set by the university."
+    },
+    {
+      "id": "contact",
+      "keywords": [
+        "contact",
+        "phone",
+        "number",
+        "email",
+        "mail",
+        "address",
+        "location",
+        "how to reach",
+        "reach",
+        "helpline",
+        "office",
+        "call",
+        "website",
+        "official contact",
+        "admission office",
+        "directions",
+        "map"
+      ],
+      "questions": [
+        "What is the official admissions contact?",
+        "What is the campus address?",
+        "How can I reach the admission office?",
+        "Admission helpline number"
+      ],
+      "answer": "📍 **Campus address:**\nSRM Institute of Science and Technology, Ramapuram Campus, Bharathi Salai, Ramapuram, Chennai, Tamil Nadu 600089\n\n🌐 **Official website:** https://www.srmist.edu.in/\n\nI don't display phone numbers or email IDs that I can't verify. Please take the current admissions contact details from the Contact / Admissions section of the official website."
+    },
+    {
+      "id": "about",
+      "keywords": [
+        "about srm",
+        "about campus",
+        "ramapuram campus",
+        "srm ramapuram",
+        "university",
+        "accreditation",
+        "naac",
+        "ranking",
+        "facilities",
+        "library"
+      ],
+      "questions": [
+        "Tell me about the Ramapuram campus",
+        "About SRM",
+        "What facilities are there?",
+        "Is the university accredited?"
+      ],
+      "answer": "SRM Institute of Science and Technology (SRMIST) is a university in Tamil Nadu, and the **Ramapuram Campus** is located in Chennai.\n\nI don't have verified details on rankings, accreditation or facilities, so please see the official website for current information."
+    },
+    {
+      "id": "thanks",
+      "verify": false,
+      "keywords": [
+        "thank",
+        "thanks",
+        "thank you",
+        "thx",
+        "helpful",
+        "appreciated",
+        "great"
+      ],
+      "questions": [
+        "thanks",
+        "thank you so much",
+        "that was helpful"
+      ],
+      "answer": "You're welcome! 😊 Feel free to ask anything else about admissions, and best wishes for your application!"
+    },
+    {
+      "id": "goodbye",
+      "verify": false,
+      "keywords": [
+        "bye",
+        "goodbye",
+        "see you",
+        "good night",
+        "exit",
+        "quit"
+      ],
+      "questions": [
+        "bye",
+        "goodbye",
+        "see you later"
+      ],
+      "answer": "Goodbye! 👋 Good luck with your admissions. Come back any time."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+streamlit>=1.30
+pytest>=7.0
+# Optional semantic matching (large download). Enable with: SRM_USE_EMBEDDINGS=1
+# sentence-transformers>=2.2
